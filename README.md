@@ -5,10 +5,10 @@ And finally when you run the solution.py file it will generate a file named solu
 
 Run this commands to check by yourself : 
 
-`> node solution.js > solution.csx`
-`> dotnet script solution.csx > solution.py`
-`> python3 solution.py > solution2.js`
-`> diff solution.js solution2.js`
-`> `
+`> node solution.js > solution.csx` <br>
+`> dotnet script solution.csx > solution.py` <br>
+`> python3 solution.py > solution2.js`<br>
+`> diff solution.js solution2.js`<br>
+`> `<br>
 
 If solution.js and solution2.js are identical, there will be no output
